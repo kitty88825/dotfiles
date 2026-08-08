@@ -3,6 +3,7 @@
   "permissions": {
     "defaultMode": "auto"
   },
+  "language": "zh-TW",
   "hooks": {
     "SessionStart": [
       {
